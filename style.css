@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans+TC:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans+TC:wght@100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+#heading-one { 
+    background-color: #aae6fa;
+}
+.heading-two{
+    background-color: #aae6fa;
+}
+.heading-three{
+    background-color: #aae6fa;
+}
+.heading-four{
+    background-color: #aae6fa;
+}
+.heading-five{
+    background-color: #aae6fa;
+}
+.heading-six{
+    background-color: #aae6fa;
+}
+.heading-seven{
+    background-color: #aae6fa;
+}
+.heading-eight{
+    background-color: #8ad184;
+}
+.heading-nine{
+    background-color: #f2a2d5;
+}
+.heading-ten{
+    background-color: #f2a2d5;
+}
+.heading-eleven{
+    background-color: #f2a2d5;
+}
+.heading-twelve{
+    background-color: #f2a2d5;
+}
+.heading-thirteen{
+    background-color: #f2a2d5;
+}
+.heading-fourteen{
+    background-color: #f2a2d5;
+}
+.heading-fifteen{
+    background-color: #f2a2d5;
+}
+.heading-sixteen{
+    background-color: rgb(242, 219, 191) ;
+    font-family: "Noto Serif", serif;
+    font-weight: bolder;
+    font-weight: 900
+}
+
+/* universal selector */
+
+/* * steric  */
+
+*{
+    font-family: "Arimo", sans-serif;
+    font-weight: 100;
+}
